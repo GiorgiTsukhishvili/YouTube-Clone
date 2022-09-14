@@ -15,7 +15,7 @@ import {
 
 export const categories = [
   { name: "New", icon: AiFillHome },
-  { name: "JS Mastery", icon: AiFillCodeSandboxCircle },
+  { name: "Giorgi Tsukhishvili", icon: AiFillCodeSandboxCircle },
   { name: "Coding", icon: AiFillCodeSandboxCircle },
   { name: "ReactJS", icon: AiFillCodeSandboxCircle },
   { name: "NextJS", icon: AiFillCodeSandboxCircle },
