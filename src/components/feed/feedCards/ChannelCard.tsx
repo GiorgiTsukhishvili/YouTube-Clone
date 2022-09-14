@@ -2,14 +2,7 @@ import React from "react";
 import { FetchedDataVideos } from "../../../interfaces/fetchedDataInterface";
 import { Link } from "react-router-dom";
 
-import {
-  demoChannelTitle,
-  demoChannelUrl,
-  demoProfilePicture,
-  demoThumbnailUrl,
-  demoVideoTitle,
-  demoVideoUrl,
-} from "../../../utils/constants";
+import { demoProfilePicture } from "../../../utils/constants";
 
 const ChannelCard = ({
   channelDetail,

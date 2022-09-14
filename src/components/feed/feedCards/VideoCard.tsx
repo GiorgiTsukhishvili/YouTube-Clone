@@ -6,9 +6,6 @@ import { FetchedDataVideos } from "../../../interfaces/fetchedDataInterface";
 import {
   demoChannelTitle,
   demoChannelUrl,
-  demoProfilePicture,
-  demoThumbnailUrl,
-  demoVideoTitle,
   demoVideoUrl,
 } from "../../../utils/constants";
 
