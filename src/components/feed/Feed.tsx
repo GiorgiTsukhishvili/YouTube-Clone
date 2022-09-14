@@ -14,7 +14,6 @@ const Feed = () => {
         const fetched = await fetchFromAPI(
           `search?part=snippet&q=${selectedCategory}`
         );
-        console.log(fetched);
         setVideos(fetched.items);
       } catch (err) {
         setError(true);

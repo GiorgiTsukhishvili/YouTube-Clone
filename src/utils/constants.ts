@@ -33,11 +33,12 @@ export const categories = [
   { name: "Crypto", icon: MdDeveloperMode },
 ];
 
-export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
-export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
-export const demoVideoUrl = "/video/GDa8kZLNhJ4";
-export const demoChannelTitle = "JavaScript Mastery";
-export const demoVideoTitle =
-  "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI";
+export const demoThumbnailUrl =
+  "https://i.ytimg.com/vi/H9HFigfkKHA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeT9El0_fQygFEzGGFY6f6AMTLBw";
+export const demoChannelUrl = "https://www.youtube.com/c/AltShiftX";
+export const demoVideoUrl =
+  "https://www.youtube.com/watch?v=H9HFigfkKHA&t=2s&ab_channel=AltShiftX";
+export const demoChannelTitle = "Alt Shift X";
+export const demoVideoTitle = "The real Tyrion Lannister";
 export const demoProfilePicture =
-  "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
+  "https://yt3.ggpht.com/ytc/AMLnZu-MNL_wdhEY4lZY1sjku9StYcuP2ViCl0J_jAwdgQ=s176-c-k-c0x00ffffff-no-rj";
