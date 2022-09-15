@@ -56,7 +56,7 @@ const ChannelDetail = () => {
       )}
       <div className="flex p-2">
         <div className="sm:mr-0 mr-[100px]"></div>
-        {videos && <Videos videos={videos} />}
+        {videos && <Videos videos={videos} direction="row" />}
       </div>
     </div>
   );

@@ -44,7 +44,7 @@ const Feed = () => {
             Try Different Category
           </h1>
         ) : (
-          <Videos videos={videos} />
+          <Videos videos={videos} direction="row" />
         )}
       </div>
     </div>
